@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+.header_block{
+display: block;
+background-color: #22242A;
+width: 1500px;
+height: 50px;
+
+}
+.innerHeader{
+display: block;
+background-color: #22242A;
+width: 1000px;
+height: 30px;
+margin-left:80px;
+}
